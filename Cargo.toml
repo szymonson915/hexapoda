@@ -1,0 +1,5 @@
+[package]
+name = "hexapoda"
+version = "0.1.0"
+edition = "2021"
+description = "a colorful modal hex editor"
