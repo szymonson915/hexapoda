@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "a colorful modal hex editor"
 # keep defaults in sync with the manifest
+# drop an unused branch
