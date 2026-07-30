@@ -56,3 +56,4 @@ fn main() {
 // clarify the control flow
 // avoid re-reading the config on every call
 // drop an unused branch
+// drop an unused branch
